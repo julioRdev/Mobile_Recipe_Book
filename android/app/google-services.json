@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194180896838",
+    "project_id": "libro-de-cocina-a7371",
+    "storage_bucket": "libro-de-cocina-a7371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194180896838:android:a1634d3a5e733404a15247",
+        "android_client_info": {
+          "package_name": "com.example.libro_cocina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194180896838-vg0bhhbhsv5lbo7c1rpn590q5elbcem1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDfTvvLmNZt60eHd7JeczK20J6SK2X9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194180896838-vg0bhhbhsv5lbo7c1rpn590q5elbcem1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
